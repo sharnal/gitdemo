@@ -2,3 +2,4 @@ Initialized Code
 Added 1 line of code
 Added 2nd line of code
 Added 3rd line of code
+fixed bug 1
